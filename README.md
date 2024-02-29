@@ -17,7 +17,7 @@
 ### How to Initialize/Run Your Application
 
 - Install requirements.txt
-- Example: Enter CLI command "python manage.py runserver"
+- Enter CLI command "python manage.py runserver"
 - View content in local port indicated by terminal
 
 ### How to Use Your Library
